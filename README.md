@@ -3,7 +3,7 @@
 
 ## Steps for using this application
 1. First clone this repository 
-        ` git clone https://github.com/kanikarungta/Django-with-Chart-Js.git `
+        ` git clone https://github.com/Mohit-15/Django-with-Chart-Js.git `
 2. Then run the following commands: 
       * First install all the requirements in your systems \
         ` pip install -r reuirements.txt `
